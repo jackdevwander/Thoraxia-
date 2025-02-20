@@ -16,6 +16,11 @@ Trained on a diverse dataset covering **COVID-19, Pneumonia, and Tuberculosis**,
 - OpenCV  
 - Qiskit  
 
+Installation
+To install the required libraries, you can use the following command:
+
+pip install -r requirements.txt
+
 ## Datasets Used  
 - **COVID-19**: [SARS-CoV-2 CT-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)  
 - **Pneumonia**: [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
