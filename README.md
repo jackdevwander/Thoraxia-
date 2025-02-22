@@ -39,6 +39,21 @@ pip install -r requirements.txt
    ├── requirements.txt
    ```  
 
+## How to Run  
+1. **Activate the virtual environment (if applicable):**  
+   ```sh  
+   source venv/bin/activate  # On macOS/Linux
+   venv\Scripts\activate  # On Windows
+   ```  
+2. **Run the Flask application:**  
+   ```sh  
+   python app.py  
+   ```  
+3. **Access the application** in your browser at:  
+   ```
+   http://127.0.0.1:5000/
+   ```  
+
 ## Datasets Used  
 - **COVID-19**: [SARS-CoV-2 CT-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)  
 - **Pneumonia**: [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
