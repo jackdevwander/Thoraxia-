@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage  
-1. **Download the project files** from the [Google Drive link](https://drive.google.com/drive/u/1/folders/1bpR9vPiv8w8R799NpsSn9yXdKQtdgrHS).  
+1. **Download the project files** from the [[Google Drive link](https://drive.google.com/drive/u/1/folders/1bpR9vPiv8w8R799NpsSn9yXdKQtdgrHS)].
 2. **Unzip the downloaded files**.  
 3. Ensure the following folder structure:  
    ```
@@ -52,7 +52,8 @@ pip install -r requirements.txt
 3. **Access the application** in your browser at:  
    ```
    http://127.0.0.1:5000/
-   ```  
+   ```
+   
 
 ## Datasets Used  
 - **COVID-19**: [SARS-CoV-2 CT-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)  
