@@ -40,7 +40,7 @@ pip install -r requirements.txt
    ```  
 
 ## How to Run  
-1. **Activate the virtual environment (if applicable):**  
+1. **Activate the virtual environment:**  
    ```sh  
    source venv/bin/activate  # On macOS/Linux
    venv\Scripts\activate  # On Windows
