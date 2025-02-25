@@ -37,8 +37,14 @@ pip install -r requirements.txt
    ├── model_qcnn.h5
    ├── pneumonia_qcnn_model.h5
    ├── requirements.txt
-   ```  
+   ```
+   
+## Datasets Used  
+- **COVID-19**: [SARS-CoV-2 CT-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)  
+- **Pneumonia**: [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
+- **Tuberculosis**: [TB Chest X-ray Dataset](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)
 
+  
 ## How to Run  
 1. **Activate the virtual environment:**  
    ```sh  
@@ -55,8 +61,5 @@ pip install -r requirements.txt
    ```
    
 
-## Datasets Used  
-- **COVID-19**: [SARS-CoV-2 CT-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)  
-- **Pneumonia**: [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
-- **Tuberculosis**: [TB Chest X-ray Dataset](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)  
+
 
