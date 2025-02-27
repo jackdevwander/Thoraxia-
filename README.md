@@ -60,6 +60,7 @@ pip install -r requirements.txt
    http://127.0.0.1:5000/
    ```
    
+![Screenshot 2025-02-27 111035](https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043)
 
 
 
