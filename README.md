@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage  
-1. **Download the project files** from the [[Google Drive link](https://drive.google.com/drive/u/1/folders/1bpR9vPiv8w8R799NpsSn9yXdKQtdgrHS)].
+1. **Download the project files** from [Google Drive](https://drive.google.com/drive/u/1/folders/1bpR9vPiv8w8R799NpsSn9yXdKQtdgrHS).  
 2. **Unzip the downloaded files**.  
 3. Ensure the following folder structure:  
    ```
@@ -37,14 +37,13 @@ pip install -r requirements.txt
    ├── model_qcnn.h5
    ├── pneumonia_qcnn_model.h5
    ├── requirements.txt
-   ```
+   ```  
    
 ## Datasets Used  
 - **COVID-19**: [SARS-CoV-2 CT-Scan Dataset](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)  
 - **Pneumonia**: [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
-- **Tuberculosis**: [TB Chest X-ray Dataset](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)
+- **Tuberculosis**: [TB Chest X-ray Dataset](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)  
 
-  
 ## How to Run  
 1. **Activate the virtual environment:**  
    ```sh  
@@ -58,9 +57,8 @@ pip install -r requirements.txt
 3. **Access the application** in your browser at:  
    ```
    http://127.0.0.1:5000/
-   ```
-   
-![Screenshot 2025-02-27 111035](https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043)
+   ```  
 
-
-
+## Visual Gallery  
+Here we've shown some sample X-ray/CT scan images and their segmented versions for each dataset.  
+![Visual Gallery](https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043)
