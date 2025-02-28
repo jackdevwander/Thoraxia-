@@ -25,9 +25,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage  
-1. **Download the project files** from [Google Drive](https://drive.google.com/drive/folders/1OqAoEDo7k7ku7kpKGchDQHcE3eqwPup2?usp=sharing).  
-2. **Unzip the downloaded files**.  
-3. Ensure the following folder structure:  
+1. **Download the project files** from [Google Drive](https://drive.google.com/drive/folders/1bpR9vPiv8w8R799NpsSn9yXdKQtdgrHS?usp=sharing).
+3. **Unzip the downloaded files**.  
+4. Ensure the following folder structure:  
    ```  
    Thoraxia/  
    ├── flask_session/  
