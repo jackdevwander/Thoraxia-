@@ -65,6 +65,9 @@ pip install -r requirements.txt
    http://127.0.0.1:5000/  
    ```  
 
+## Demo
+Check out the demo at this [link](https://drive.google.com/drive/folders/18t_rVUnwAQukEb6SOIw_uYjWyQBtHN7N?usp=sharing) for an in-depth look at the project in action!
+
 ## Visual Gallery 
 Here we've shown some sample X-ray/CT scan images and their segmented versions for each dataset
 <p align="center">  
