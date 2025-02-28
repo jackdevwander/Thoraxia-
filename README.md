@@ -23,20 +23,20 @@ pip install -r requirements.txt
 ```
 
 ## Usage  
-1. **Download the project files** from [Google Drive](https://drive.google.com/drive/u/1/folders/1bpR9vPiv8w8R799NpsSn9yXdKQtdgrHS).  
+1. **Download the project files** from [Google Drive](https://drive.google.com/drive/folders/1OqAoEDo7k7ku7kpKGchDQHcE3eqwPup2?usp=sharing).  
 2. **Unzip the downloaded files**.  
 3. Ensure the following folder structure:  
-   ```
-   Thoraxia/
-   ├── flask_session/
-   ├── static/
-   ├── templates/
-   ├── venv/
-   ├── app.py
-   ├── covid_qcnn_model.h5
-   ├── model_qcnn.h5
-   ├── pneumonia_qcnn_model.h5
-   ├── requirements.txt
+   ```  
+   Thoraxia/  
+   ├── flask_session/  
+   ├── static/  
+   ├── templates/  
+   ├── venv/  
+   ├── app.py  
+   ├── covid_qcnn_model.h5  
+   ├── model_qcnn.h5  
+   ├── pneumonia_qcnn_model.h5  
+   ├── requirements.txt  
    ```  
    
 ## Datasets Used  
@@ -47,18 +47,18 @@ pip install -r requirements.txt
 ## How to Run  
 1. **Activate the virtual environment:**  
    ```sh  
-   source venv/bin/activate  # On macOS/Linux
-   venv\Scripts\activate  # On Windows
+   source venv/bin/activate  # On macOS/Linux  
+   venv\Scripts\activate  # On Windows  
    ```  
 2. **Run the Flask application:**  
    ```sh  
    python app.py  
    ```  
 3. **Access the application** in your browser at:  
-   ```
-   http://127.0.0.1:5000/
+   ```  
+   http://127.0.0.1:5000/  
    ```  
 
 ## Visual Gallery  
 Here we've shown some sample X-ray/CT scan images and their segmented versions for each dataset.  
-![Visual Gallery](https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043)
+![Visual Gallery](https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043)  
