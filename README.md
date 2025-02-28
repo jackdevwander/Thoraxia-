@@ -7,8 +7,9 @@ Trained on a diverse dataset covering **COVID-19, Pneumonia, and Tuberculosis**,
 
 ## Process Flow  
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/8645ecf9-d86d-4f43-beaf-147a0bc6b85a" alt="Process Flow">  
-  
+<img src="https://github.com/user-attachments/assets/2eaf4116-ba48-4dd5-b0e4-227403a0c7f1" alt="Process Flow">  
+ 
+
 </p>  
 
 ## Technologies Used  
