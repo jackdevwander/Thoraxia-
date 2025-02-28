@@ -6,7 +6,9 @@ This project proposes a hybrid **Quantum-Classical Convolutional Neural Network 
 Trained on a diverse dataset covering **COVID-19, Pneumonia, and Tuberculosis**, the model outperforms traditional CNNs in both **disease classification and severity assessment**, aiding clinical decision-making. This approach improves **diagnostic precision** and offers insights into **disease progression**, advancing medical imaging and healthcare.  
 
 ## Process Flow  
-![Process Flow](https://github.com/user-attachments/assets/5818a73a-76dd-44c2-8f7a-8c5c880e7122)  
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/5818a73a-76dd-44c2-8f7a-8c5c880e7122" alt="Process Flow">  
+</p>  
 
 ## Technologies Used  
 - Python  
@@ -60,5 +62,6 @@ pip install -r requirements.txt
    ```  
 
 ## Visual Gallery  
-Here we've shown some sample X-ray/CT scan images and their segmented versions for each dataset.  
-![Visual Gallery](https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043)  
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043" alt="Visual Gallery">  
+</p>  
