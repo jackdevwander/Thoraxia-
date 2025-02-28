@@ -61,7 +61,8 @@ pip install -r requirements.txt
    http://127.0.0.1:5000/  
    ```  
 
-## Visual Gallery  
+## Visual Gallery 
+Here we've shown some sample X-ray/CT scan images and their segmented versions for each dataset
 <p align="center">  
 <img src="https://github.com/user-attachments/assets/5b7cde86-b830-4960-bb05-790e2df1a043" alt="Visual Gallery">  
 </p>  
