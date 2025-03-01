@@ -1,5 +1,5 @@
-# Advancing Chest Abnormality Detection  
-## Using Deep Learning Innovations for Enhanced Diagnostic Precision  
+# Advancing Chest Abnormality Detection Using Deep Learning Innovations for Enhanced Diagnostic Precision  
+
 
 **Members: Namratha S, Hitha K, Fathima Thaskeen, Gahana Shetty, Dr Sannidhan M S**
 
